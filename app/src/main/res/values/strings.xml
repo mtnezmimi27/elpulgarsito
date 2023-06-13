@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ped</string>
+    <string name="coca_cola_1_0_0">Coca cola $1.00</string>
+    <string name="ref_nat_0_7_5">Ref nat $0.75</string>
+    <string name="beb">BEB</string>
+    <string name="lic_1_2_5">Lic $1.25</string>
+    <string name="re_de_chile_2_2_5">Re de chile $2.25</string>
+    <string name="sop_de_res_3_0_0">Sop de res $3.00</string>
+    <string name="carne_a_la_plan_2_7_5">Carne a la plan $2.75</string>
+    <string name="sop_de_poll_3_5_0">Sop de poll $3.50</string>
+    <string name="alm">ALM</string>
+    <string name="tot_a_pag">Tot a pag:</string>
+    <string name="entre_a_dom">Entre a dom $10</string>
+    <string name="para_lle">Para lle</string>
+    <string name="sel_los_dat_de_su_ped">Sel los dat de su ped:</string>
+    <string name="ped_de_com">Ped de com</string>
+    <string name="calc">Calc</string>
+    <string name="can">Can</string>
+    <string name="jug_1_0_0">Jug $1.00</string>
+    <string name="todo">Todo</string>
+</resources>
